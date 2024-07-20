@@ -30,7 +30,7 @@ return (
                     <div className="mt-6 flex items-center gap-8 text-xs">
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -52,7 +52,7 @@ return (
 
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -100,7 +100,7 @@ return (
                     <div className="mt-6 flex items-center gap-8 text-xs">
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -122,7 +122,7 @@ return (
 
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -171,7 +171,7 @@ return (
                     <div className="mt-6 flex items-center gap-8 text-xs">
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -193,7 +193,7 @@ return (
 
                         <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                             <svg
-                                className="size-4 text-indigo-700"
+                                className="size-4 text-red-700"
                                 xmlns="http://www.w3.org/2000/svg"
                                 fill="none"
                                 viewBox="0 0 24 24"
@@ -243,7 +243,7 @@ return (
                         <div className="mt-6 flex items-center gap-8 text-xs">
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -265,7 +265,7 @@ return (
 
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -313,7 +313,7 @@ return (
                         <div className="mt-6 flex items-center gap-8 text-xs">
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -335,7 +335,7 @@ return (
 
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -384,7 +384,7 @@ return (
                         <div className="mt-6 flex items-center gap-8 text-xs">
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -406,7 +406,7 @@ return (
 
                             <div className="sm:inline-flex sm:shrink-0 sm:items-center sm:gap-2">
                                 <svg
-                                    className="size-4 text-indigo-700"
+                                    className="size-4 text-red-700"
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
