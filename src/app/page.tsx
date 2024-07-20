@@ -12,7 +12,7 @@ export default function Home() {
     <Hero />
     <Sectionlist />
 
-    <h1> food </h1>
+    
     </>
   );
 }
