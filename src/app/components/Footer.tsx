@@ -8,7 +8,6 @@ export default function Footer() {
       <div className="flex justify-center text-red-600 sm:justify-start dark:text-red-300">
         
       </div>
-
       <p className="mt-4 text-center text-gray-500 lg:mt-0  dark:text-gray-400">
         Copyright &copy; 2024. All rights reserved.
       </p>
